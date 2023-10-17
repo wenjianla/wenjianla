@@ -1,6 +1,6 @@
 ### Hi,👋 I'm Wu Wenjian
 
-- 🏫 [My personal website](wuwenjian.me)
+- 🏫 [My personal website](https://www.wuwenjian.me)
 - 🌱 I’m currently learning SLAM
 - 😄 Interests: SLAM
 
